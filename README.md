@@ -1,3 +1,6 @@
-<p align="center">
-  <img src="https://github.com/elchibek05/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Elchibek 👋 I'm a 🚀 Creating with Code 🚀 I ❤️  ❤️">
+<h1 align="center">Hi 👋, I'm Elchibek</h1>
+<h3 align="center">I'm a 🚀 Software Engineer 🚀 I ❤️ Creating with Code ❤️</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
