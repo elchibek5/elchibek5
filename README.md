@@ -1,19 +1,5 @@
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(-20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Elchibek" alt="Hi, I'm Elchibek 👋">
+</h1>
 
-.animated-title {
-  animation: fadeIn 1s ease-out forwards;
-  opacity: 0;
-}
-
-.animated-subtitle {
-  animation: fadeIn 1.5s ease-out forwards;
-  opacity: 0;
-}
-</style>
-
-<h1 align="center" class="animated-title">Hi 👋, I'm Elchibek</h1>
-<h3 align="center" class="animated-subtitle">I'm a 🚀 Software Engineer 🚀 I ❤️ Creating with Code ❤️</h3>
+<h3 align="center">I'm a 🚀 Software Engineer 🚀 I ❤️ Creating with Code ❤️</h3>
