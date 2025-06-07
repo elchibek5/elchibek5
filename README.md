@@ -5,4 +5,4 @@
 
 
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Elchibek;Flutter+Dev+%7C+AI+Explorer+%7C+Startup+Dreamer&center=true&width=550&height=45)
+![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Elchibek;Software+Engineer+%7C+AI+Explorer+%7C+Startup+Dreamer&center=true&width=550&height=45)
